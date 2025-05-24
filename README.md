@@ -1,0 +1,8 @@
+- uv init --package project name
+- uv add chainlit
+- uv add openai-agents
+- uv venv
+- .venv/Scripts/activate
+- check interpreter
+- insert api key using ai studio
+- If you need the weather API key, you can type weather API key on Google and it will come up there.
